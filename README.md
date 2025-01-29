@@ -12,4 +12,4 @@ In-depth examination of various performance metrics like Attack, Block, Serve, S
 Analysis of Position and its correlation with player performance.
 This project uses Python, Pandas, Matplotlib, and Seaborn for data analysis and visualization. You can explore the findings in detail through the Jupyter Notebook provided in the repository.
 ## Author : Shashank Tiwari
-### Linkedin : 
+### Linkedin :https://www.linkedin.com/feed/update/urn:li:activity:7290354164684009472/ 
